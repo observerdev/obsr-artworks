@@ -1,2 +1,2 @@
 # obsr-artworks
-OServer Core - Artworks
+OBSR Artworks
